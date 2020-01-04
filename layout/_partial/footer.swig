@@ -18,11 +18,10 @@
       {{ theme.since }} - {{ current }}
     {%- else -%}
       {{ current }}
-    {%- endif -%} 
+    {%- endif -%}
 
     <span class="heart">
-      <i class="iconfont icon-heart"></i>
     </span>
-    <span class="author">{{ config.author }}</span>
+    All rights reserved.
   </span>
 </div>
